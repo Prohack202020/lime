@@ -9,7 +9,7 @@ namespace lime {
 
 		public:
 
-			static void Vibrate (int period, int duration, double amplitude);
+			static void Vibrate (int period, int duration);
 
 	};
 
